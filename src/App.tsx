@@ -17,7 +17,7 @@ function App() {
           <FeaturedPost
             title="The Future of AI: Transforming Industries in 2024"
             excerpt="Discover how artificial intelligence is revolutionizing various sectors and what to expect in the coming years."
-            imageUrl="https://images.unsplash.com/photo-1677442136019-21780ecad995"
+            imageUrl="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80"
             date="March 15, 2024"
           />
         </section>
@@ -27,21 +27,21 @@ function App() {
           <BlogPost
             title="Machine Learning in Healthcare"
             excerpt="How ML algorithms are improving patient diagnosis and treatment planning."
-            imageUrl="https://images.unsplash.com/photo-1576671081837-49000212a370"
+            imageUrl="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80"
             date="March 14, 2024"
             readTime="5 min"
           />
           <BlogPost
             title="Natural Language Processing Breakthroughs"
             excerpt="Recent advances in NLP are changing how we interact with machines."
-            imageUrl="https://images.unsplash.com/photo-1677442136019-21780ecad995"
+            imageUrl="https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&q=80"
             date="March 13, 2024"
             readTime="4 min"
           />
           <BlogPost
             title="Ethics in Artificial Intelligence"
             excerpt="Exploring the moral implications of AI development and deployment."
-            imageUrl="https://images.unsplash.com/photo-1620712943543-bcc4688e7485"
+            imageUrl="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80"
             date="March 12, 2024"
             readTime="6 min"
           />
